@@ -1,5 +1,5 @@
 import * as React from "react"
-import Counter from "./container/Counter"
+import Counter from "./containers/Counter"
 
 const App = (): JSX.Element => {
   return (
